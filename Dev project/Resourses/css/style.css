@@ -1,0 +1,91 @@
+.banner{
+  background-color: goldenrod;
+  color:black;
+  text-align: center;
+  padding: 100px o;
+  font-weight: bold;
+  font-style: inherit;
+  }
+.afe{
+  filter: drop-shadow(1px 1px 1px black);
+  font-weight: bold;
+  font-style: oblique;
+  color: maroon;
+}
+
+
+.email {
+  align-items: center;
+  padding: 100px o;
+}
+#photo {
+  width: 175px;
+  height: 220px;
+  filter: drop-shadow(1px 1px 1px black);
+  border-radius: 5px;
+  clear: inline-start;
+}
+
+#impactally {
+  font-weight: bold;
+  color: maroon;
+  filter: drop-shadow(1px 1px 1px black);
+  font-size: large initial;
+  font-style: oblique;
+  
+}
+
+
+
+.instagram :hover {
+  background-color: black;
+  color:maroon;
+  padding: 2px;
+}
+
+.facebook :hover {
+  background-color: black;
+  color: maroon
+  
+}
+
+.linktree :hover {
+  background-color: black;
+  color: maroon;
+  padding: 2px;
+
+}
+
+.navbar li {
+  display: inline;
+  padding: 0 25px;
+  text-decoration: none;
+  align-items: center;
+  motion-path: fill-box;
+}
+
+a {
+  display: flex;
+  align-items: center;
+  padding: 2px
+}
+
+
+.form {
+  height: 30vh;
+  display: flex;
+  align-items: center;
+}
+
+.form-action{
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+gap: 30px;
+}
+
+.connected h3{
+  color: maroon;
+  filter: drop-shadow(1px 1px 1px black);
+  font-style: oblique;
+}
